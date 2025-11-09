@@ -1,1 +1,2 @@
 Hello Git and GitHub
+[Accept current change] | [Accept incoming chsnge] | [Accept both]
